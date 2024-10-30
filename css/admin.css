@@ -1,0 +1,21 @@
+/**
+ * @package WP_HubspotForms
+ * Admin CSS.
+ */
+
+#wp-hubspot-forms-settings-tab-contents {
+   min-height: 100px;
+   margin: 0 0 0 0px;
+   padding: 20px;
+   background-color: #fff;
+   border: 1px solid #ddd;
+}
+
+#wp-hubspot-forms-settings-tab-contents .form-table {
+  clear: none;
+}
+
+#hubspot-form-popup .form-table {
+  clear: none;
+  width: auto !important;
+}
